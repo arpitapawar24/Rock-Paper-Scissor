@@ -75,13 +75,9 @@ OR use VS Code Live Server extension.
 
 ## 📸 Screenshots
 
-Add your project screenshots here.
 
-Example:
+<img width="1920" height="914" alt="image" src="https://github.com/user-attachments/assets/17ab3e34-e8e9-402e-9773-fba8e3ec1f90" />
 
-```md id="zk0wp7"
-![Game Screenshot](screenshot.png)
-```
 
 ---
 
