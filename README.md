@@ -73,32 +73,9 @@ OR use VS Code Live Server extension.
 
 ---
 
-## 📸 Screenshots
+## 📘 Academic Disclaimer
 
+This project was developed for **educational and learning purposes** as part of frontend web development practice.
+The Rock Paper Scissors game is created to demonstrate concepts of **HTML, CSS, and JavaScript**, including DOM manipulation, event handling, game logic, and responsive UI design.
 
-<img width="1920" height="914" alt="image" src="https://github.com/user-attachments/assets/17ab3e34-e8e9-402e-9773-fba8e3ec1f90" />
-
-
----
-
-## 🌟 Future Improvements
-
-* Add sound effects 🔊
-* Add animations ✨
-* Add dark mode 🌙
-* Add multiplayer mode 👥
-* Store scores using Local Storage 💾
-
----
-
-## 👩‍💻 Author
-
-**Arpita Pawar**
-
-GitHub: [GitHub Profile](https://github.com?utm_source=chatgpt.com)
-
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
+This project is not intended for commercial use and may be further improved for enhanced functionality and user experience.
